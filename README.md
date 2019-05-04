@@ -16,7 +16,17 @@ tar -xvf hadoop-2.7.3.tar.gz
 set hadoop home
 set java home
 
+- set path 
+sudo vim /etc/paths
+
+
+- configure:
+
 bin/hadoop namenode -format
+
+- start 
 
 ./start-dfs.sh
 ./start-yarn.sh
+
+http://localhost:50070
