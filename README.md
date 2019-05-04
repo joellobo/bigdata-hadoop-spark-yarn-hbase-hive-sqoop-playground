@@ -1,11 +1,16 @@
 # bigdata-hadoop-spark-yearn-hbase-hive-playground
 BigData Hadoop Playground
 
+Install and Configuration:
 https://www.edureka.co/blog/install-hadoop-single-node-hadoop-cluster
 https://neemaw.blogspot.com/2019/03/apache-open-source-configurations.html
 https://drive.google.com/file/d/1bFm46gLYfwuLGJqxYdfI-kfzEZKV_Jeg/view
 
+Hello World:
+https://examples.javacodegeeks.com/enterprise-java/apache-hadoop/hadoop-hello-world-example/
 
+
+###############################################################################################
 
 
 mkdir ~/hadoop-playground
@@ -30,3 +35,16 @@ bin/hadoop namenode -format
 ./start-yarn.sh
 
 http://localhost:50070
+
+
+
+
+
+
+
+
+
+
+
+
+
