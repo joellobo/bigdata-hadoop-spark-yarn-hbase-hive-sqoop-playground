@@ -40,7 +40,7 @@ bin/hadoop namenode -format
 
 http://localhost:50070
 
-
+http://localhost:8088/
 
 cd $HADOOP_HOME
 hdfs dfs -mkdir -p input
